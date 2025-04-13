@@ -2,6 +2,10 @@
 
 This is a Streamlit-based web app that allows users to convert currency between USD and INR, and view a live-updating carousel of the latest news related to the USD/INR exchange.
 
+### 📺 Demo Video
+
+[![Watch the demo]](https://youtu.be/tN1TTlwArOA)
+
 ## 🚀 Features
 
 - Convert between **USD ↔ INR** using a Gemini-powered API.
