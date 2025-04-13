@@ -10,11 +10,7 @@ from langchain_community.retrievers import TavilySearchAPIRetriever
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
-from dotenv import load_dotenv
-
-load_dotenv()
-
-# os.environ["GOOGLE_API_KEY"] = "AIzaSyAUhBEdSJuIK1NEsVL5HuwLyWEk5PF_k4o"
+from dotenv 
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 
